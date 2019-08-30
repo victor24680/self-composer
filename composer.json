@@ -1,7 +1,7 @@
 {
     "name": "victor/sendtool-package",
     "description": "sendtool package",
-    "type": "victor",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
