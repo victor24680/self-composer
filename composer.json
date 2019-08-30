@@ -1,0 +1,22 @@
+{
+    "name": "victor/sendtool-package",
+    "description": "sendtool package",
+    "type": "victor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "victor24680",
+            "email": "490319148@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App",
+            "Contract\\": "src/Contract"
+        }
+    }
+}
